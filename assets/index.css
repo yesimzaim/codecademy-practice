@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(240, 97, 50);
+  text-align: left; 
+  font-weight: normal;
+  font-size: 100%; 
+  }
+  
+  h1 {
+  color: white;
+  letter-spacing: 5px;  
+  transform: translate(50px, 100px);
+  }
+  
+  h2 {
+  color: white;
+  }
+   
+  .footer {
+    text-align: right;
+    color:  white;  
+    position: absolute;
+  }  
